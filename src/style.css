@@ -1,0 +1,45 @@
+/** @format */
+
+@import 'tailwindcss';
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,regular,500,600,700,800,900,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+@font-face {
+  font-family: 'Soyuz_Grotesk';
+  src: url('./fonts/Soyuz_Grotesk/SoyuzGroteskBold.ttf') format('ttf');
+}
+@font-face {
+  font-family: 'Gilroy Thin';
+  src: url('./fonts/Gilroy/Gilroy-Thin.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Gilroy ExtraBold';
+  src: url('./fonts/Gilroy/Gilroy-ExtraBold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Gilroy Medium';
+  src: url('./fonts/Gilroy/Gilroy-Medium.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Gilroy Regular';
+  src: url('./fonts/Gilroy/Gilroy-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Gilroy Semibold';
+  src: url('./fonts/Gilroy/Gilroy-Semibold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Gilroy Bold';
+  src: url('./fonts/Gilroy/Gilroy-Bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Gilroy Black';
+  src: url('./fonts/Gilroy/Gilroy-Black.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Gilroy Heavy';
+  src: url('./fonts/Gilroy/Gilroy-Heavy.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Gilroy Light';
+  src: url('./fonts/Gilroy/Gilroy-Light.woff2') format('woff2');
+}
